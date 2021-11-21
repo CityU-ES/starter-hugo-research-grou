@@ -11,11 +11,16 @@ title: |
   Fintech
 hero_media: C01-018.jpeg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  background:
+    image: C01-018.jpeg
+    image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
 advanced:
   css_class: fullscreen
 ---
