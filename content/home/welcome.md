@@ -6,10 +6,10 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: C01-018.jpeg
+title: 
   Wowchemy  
   Research Group
-hero_media: 
+hero_media: C01-018.jpeg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
