@@ -16,6 +16,10 @@ design:
   # Add custom styles
   css_style:
   css_class:
+    spacing:
+    padding: ["20px", "0", "20px", "0"]
+advanced:
+  css_class: fullscreen
 ---
 
 <br>
