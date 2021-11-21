@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Document submission
 
 # View.
 #   1 = List
