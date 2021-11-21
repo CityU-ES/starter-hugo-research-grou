@@ -7,9 +7,8 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  CityU  
-  Fintech
-hero_media: C01-018.jpeg
+ 
+hero_media: 
 design:
   columns: "1"
   background:
