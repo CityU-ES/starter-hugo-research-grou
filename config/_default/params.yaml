@@ -6,7 +6,8 @@
 # Appearance
 
 theme: minimal
-day_night: true
+#day_night: true
+day_night = true
 font: native
 font_size: L
 
