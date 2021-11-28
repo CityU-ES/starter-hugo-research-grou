@@ -1,19 +1,28 @@
 ---
 title: Example Event
 
-event: Wowchemy Conference
-event_url: https://example.org
+|  Session  | Paper Title | Time |
+| ------------------------------------------ | ---------------- | ---------------- |
+| Openning   Speech: **Frank CHEN** | Welcome to Participants         | 9:00 - 9:15 am   |
+| | **Keynote Session (Chair: Alan WAN)**  | |
+| Keynote   Speech: **Jean-Marie DUFOUR** |    Simple Estimators for Higher-order Stochastic Volatility Models and Forecasting    | 9:15 - 10:00 am  |
+|   |***1st   Coffee Break***              | 10:00 - 10:30 am |
+| |**1st Session (Chair: Xu HAN)**  | |
+| Speaker   1: **Xingbai XU**               |    Large Sample Properties of Bayesian Estimation of Spatial Econometric Models              | 10:30 - 11:00 am |
+| Speaker   2: **Kin Wai CHAN**    |    Estimator of Asymptotic Covariance Matrix in Non-stationary Time Series                  | 11:00 - 11:30 am |
+| Speaker   3: **Lilun DU**               |    Dynamic Tracking and Screening in Massive Datastreams           | 11:30 - 12:00 pm |
+|                         |       ***Lunch   Break***       | 12:00 - 2:00 pm  |
+| | **2nd Session (Chair: Gavin FENG)**   | |
+| Speaker   4: **Liyuan CUI** |    A Machine Learning Approach to Estimating Large Positive Definite Covariance Matrix of High Frequency Data    | 2:00 - 2:30 pm   |
+| Speaker   5: **Dave RAPACH**     |    The Rise and Fall of the Carry Trade: Links to Currency Return Predictability                  | 2:30 - 3:00 pm   |
+| Speaker   6: **Zhonghao FU**     | Estimation and Testing Distributional Changes via Characteristic Function | 3:00 - 3:30 pm   |
+|                  |  ***2nd   Coffee Break***   | 3:30 - 4:00 pm   |
+| | **3rd Session (Chair: Alan WAN)** | |
+| Speaker   7: **Yuying SUN**      |    Model Averaging for Interval-valued Data                 | 4:00 - 4:30 pm   |
+| Speaker   8: **Jun LIAO**           |    Frequentist Model Averaging for the Nonparametric Additive Model               | 4:30 - 5:00 pm   |
+| Speaker   9: **Wenhao WANG** |    A Jackknife Model Averaging Analysis of RMB Misalignment Estimates                      | 5:00 - 5:30 pm   |
+| Closing   Remarks             |           | 5:30 - 5:35 pm   |
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
