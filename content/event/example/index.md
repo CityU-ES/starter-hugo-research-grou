@@ -1,6 +1,11 @@
 ---
 title: Example Event
+ # Custom CSS. 
+ css_style = ""
 
+ # CSS class.
+ css_class = ""
++++
 |  Session  | Paper Title | Time |
 | ------------------------------------------ | ---------------- | ---------------- |
 | Openning   Speech: **Frank CHEN** | Welcome to Participants         | 9:00 - 9:15 am   |
