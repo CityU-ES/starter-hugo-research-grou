@@ -9,10 +9,10 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
-  languageCode: zh
-  contentDir: content/zh
-  title: 香港城市大学金融科技
+#zh:
+#  languageCode: zh
+#  contentDir: content/zh
+#  title: 香港城市大学金融科技
 #  params:
 #    description: Site description in Chinese...
 #  menu:
