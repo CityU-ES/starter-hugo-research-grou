@@ -27,3 +27,16 @@ design:
   show_role: true
   show_social: true
 ---
+## **Keynote Speaker** 
+#### &emsp;&emsp;**Jean-Marie DUFOUR**  
+#### &emsp;&emsp;**Professor & William Dow Chair of Political Economy**
+#### &emsp;&emsp;*McGill University*
+
+|                                                      |                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------- |
+| **Kin Wai CHAN** *Chinese University of Hong Kong*           | **Liyuan CUI**  *City University of Hong Kong*    |
+| **Lilun DU** *Hong Kong University of Science and Technology* | **Zhonghao FU** *Fudan University*                |
+| **Jun LIAO** *Renmin University of China*                    | **David RAPACH** *Saint Louis University*         |
+| **Yuying SUN** *Chinese Academy of Sciences*                  |  **Wenhao WANG**  *City University of Hong Kong*              |
+| **Xingbai XU** *Xiamen University*                | |
+
