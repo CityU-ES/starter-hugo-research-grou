@@ -26,14 +26,7 @@ design:
   show_interests: false
   show_role: true
   show_social: true
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
-
- # CSS class.
- css_class = ""
-+++
+---
 ## **Keynote Speaker** 
 #### &emsp;&emsp;**Jean-Marie DUFOUR**  
 #### &emsp;&emsp;**Professor & William Dow Chair of Political Economy**
