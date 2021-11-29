@@ -14,22 +14,30 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: City University of Hong Kong
+  url: "https://www.cityu.edu.hk/"
+- name: College of Business
+  url: "https://www.cb.cityu.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Assistant Professor of Statistics
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+-   Financial econometrics
+-   Empirical asset pricing
+-   Machine learning
+-   Fintech
 
 education:
-Ph.D. - Business Administration (University of Chicago)
-M.B.A. - Economics and Finance (University of Chicago)
-B.S. - Mathematics (Penn State University)
-B.S. - Economics (Penn State University) 
+  courses:
+  - course: Ph.D. - Business Administration
+    institution: University of Chicago
+  - course: M.B.A. - Economics and Finance
+    institution: University of Chicago
+  - course: B.S. - Mathematics Penn State University
+    institution: Penn State University
+  - course: B.S. - Economics (Penn State University) 
+    institution: Penn State University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,7 +49,7 @@ social:
   link: 'gufeng@cityu.edu.hk'
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://www.gavinfeng702.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=s1bAFGEAAAAJ&hl=en
