@@ -21,18 +21,27 @@ design:
 
 ## DATE & TIME
 
-### &emsp;&emsp;&emsp;     August 17 2019
-###    &emsp;&emsp;&emsp;     9:00 am -6:00 pm
+### &emsp;&emsp;&emsp;     May & June 2022
+###    &emsp;&emsp;&emsp;     TBA
 
-## Co-Chairs
+## CONFERENCE COMMITTEES:
 
 ### &emsp;&emsp;&emsp;              Gavin FENG 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;gavin.feng@cityu.edu.hk
-###   &emsp;&emsp;&emsp;          Alan WAN 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;msawan@cityu.edu.hk
+###   &emsp;&emsp;&emsp;           Xiao QIAN 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+###   &emsp;&emsp;&emsp;           Simoon TRIMBORN
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+###   &emsp;&emsp;&emsp;           Zhengyang XU
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
-## Venue
+## VENUE
 
-###     &emsp;&emsp;&emsp;     8th floor, Lau Ming Wai Academic Building, City University of Hong Kong
+###     &emsp;&emsp;&emsp;     TBA
+
+## CONFERENCE MODE:
+
+### &emsp;&emsp;&emsp;     Hybrid Conference with limited partipation on CityU campus
+
 
 
