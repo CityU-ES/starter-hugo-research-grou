@@ -29,11 +29,8 @@ design:
 ### &emsp;&emsp;&emsp;              Gavin FENG 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;gavin.feng@cityu.edu.hk
 ###   &emsp;&emsp;&emsp;           Xiao QIAN 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ###   &emsp;&emsp;&emsp;           Simoon TRIMBORN
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ###   &emsp;&emsp;&emsp;           Zhengyang XU
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 ## VENUE
 
@@ -41,7 +38,7 @@ design:
 
 ## CONFERENCE MODE:
 
-### &emsp;&emsp;&emsp;     Hybrid Conference with limited partipation on CityU campus
+### &emsp;&emsp;&emsp;         Hybrid Conference with limited partipation on CityU campus
 
 
 
