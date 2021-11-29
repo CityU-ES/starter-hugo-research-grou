@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 鬼怪
+title: Gavin FENG
 
 # Username (this should match the folder name)
 authors:
-- 鬼怪
+- Gavin FENG
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,16 +26,10 @@ interests:
 - Information Retrieval
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+Ph.D. - Business Administration (University of Chicago)
+M.B.A. - Economics and Finance (University of Chicago)
+B.S. - Mathematics (Penn State University)
+B.S. - Economics (Penn State University) 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'gufeng@cityu.edu.hk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=s1bAFGEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +63,4 @@ user_groups:
 - Visitors
 ---
 
-鬼怪 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Guanhao (Gavin) Feng is an assistant professor of business statistics at the City University of Hong Kong. He is also the program leader of MSc in Business Data Analytics (Quantitative Analysis for Business stream). Gavin's research work has been published or accepted at the Journal of Finance and Journal of Econometrics.  He has been invited to present at major academic conferences and international investment professional conferences. Gavin obtained his Ph.D. and MBA degrees from the University of Chicago in 2017. His research interests include financial econometrics, empirical asset pricing, machine learning, and fintech.
