@@ -35,12 +35,15 @@ design:
 
 ## CONFERENCE COMMITTEES
 
-&emsp;&emsp;&emsp;           [Gavin FENG](https://www.gavinfeng702.com/)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[gavin.feng@cityu.edu.hk](gavin.feng@cityu.edu.hk)
-&emsp;&emsp;&emsp;           [Xiao QIAO](https://sites.google.com/site/xiaoqiao10/) 
-&emsp;&emsp;&emsp;           [Simoon TRIMBORN](https://www.simontrimborn.de/)
+#### [Gavin FENG](https://www.gavinfeng702.com/)
+### [Xiao QIAO](https://sites.google.com/site/xiaoqiao10/) 
+### [Simoon TRIMBORN](https://www.simontrimborn.de/)
 &emsp;&emsp;&emsp;           [Zhengyang XU](https://sites.google.com/view/zhengyxu)
 
-## CONFERENCE MODE:
+## CONFERENCE MODE
 
-&emsp;&emsp;&emsp;         Hybrid Conference with limited partipation on [CityU campus](https://www.cityu.edu.hk/).
+#### Hybrid Conference with limited partipation on [CityU campus](https://www.cityu.edu.hk/).
+
+## CONTACT
+#### gavin.feng@cityu.edu.hk
+
