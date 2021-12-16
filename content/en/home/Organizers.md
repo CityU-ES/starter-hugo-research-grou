@@ -14,8 +14,9 @@ design:
 ---
 
 <br>
+
 ## ORGANIZERS:<br>
-### Conference CityU Organizers:
+### Conference CityU Organizers
 
 &emsp;&emsp;&emsp;&emsp;<font color=black size=5>Laboratory for AI-Powered FinTech</font><br>
 &emsp;&emsp;&emsp;&emsp;<font color=black size=5>Department of Management Sciences</font><br>
