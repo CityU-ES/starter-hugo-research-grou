@@ -18,7 +18,6 @@ subtitle:
 design:
   columns: "1"
   background:
-    color = "navy"
     image: campus.jpg
     image_darken: 0.6.0
     image_parallax: true
