@@ -15,7 +15,7 @@ design:
 
 <br>
 
-### &emsp;&emsp;&emsp;Conference CityU Organizers:
+### Conference CityU Organizers:
 
 <font color=black size=5>       Laboratory for AI-Powered FinTech</font><br>
 <font color=black size=5>       Department of Management Sciences</font><br>
@@ -23,7 +23,7 @@ design:
 <font color=black size=5>       Department of Economics and Finance</font><br>
 <font color=black size=5>       Fintech and Business Analytics Center</font><br>
 
-### &emsp;&emsp;&emsp;Conference Co-Organizers
+### Conference Co-Organizers
 
 <font color=black size=5>       FinTech at Cornell Initiative</font><br>
 <font color=black size=5>       Peking University Institute of Digital Finance</font><br>
