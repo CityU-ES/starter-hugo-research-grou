@@ -30,21 +30,17 @@ design:
 
 ## DATE & TIME
 
-&emsp;&emsp;&emsp;     May & June 2022
+&emsp;&emsp;&emsp;     May/June 2022
 &emsp;&emsp;&emsp;     TBA
 
-## CONFERENCE COMMITTEES:
+## CONFERENCE COMMITTEES
 
-### &emsp;&emsp;&emsp;              Gavin FENG 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;gavin.feng@cityu.edu.hk
-###   &emsp;&emsp;&emsp;           Xiao QIAN 
-###   &emsp;&emsp;&emsp;           Simoon TRIMBORN
-###   &emsp;&emsp;&emsp;           Zhengyang XU
-
-## VENUE
-
-###     &emsp;&emsp;&emsp;     TBA
+&emsp;&emsp;&emsp;           [Gavin FENG](https://www.gavinfeng702.com/)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[gavin.feng@cityu.edu.hk](gavin.feng@cityu.edu.hk)
+&emsp;&emsp;&emsp;           [Xiao QIAO](https://sites.google.com/site/xiaoqiao10/) 
+&emsp;&emsp;&emsp;           [Simoon TRIMBORN](https://www.simontrimborn.de/)
+&emsp;&emsp;&emsp;           [Zhengyang XU](https://sites.google.com/view/zhengyxu)
 
 ## CONFERENCE MODE:
 
-### &emsp;&emsp;&emsp;         Hybrid Conference with limited partipation on [CityU campus](https://www.cityu.edu.hk/).
+&emsp;&emsp;&emsp;         Hybrid Conference with limited partipation on [CityU campus](https://www.cityu.edu.hk/).
