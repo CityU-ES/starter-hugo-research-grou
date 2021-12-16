@@ -19,7 +19,7 @@ design:
   columns: "1"
   background:
     image: campus.jpg
-    image_darken: 1.0
+    image_darken: 10.0
     image_parallax: true
     image_position: center
     image_size: cover
@@ -41,10 +41,10 @@ design:
 ###   &emsp;&emsp;&emsp;           Simoon TRIMBORN
 ###   &emsp;&emsp;&emsp;           Zhengyang XU
 
-** VENUE
+## VENUE
 
 ###     &emsp;&emsp;&emsp;     TBA
 
-** CONFERENCE MODE:
+## CONFERENCE MODE:
 
 ### &emsp;&emsp;&emsp;         Hybrid Conference with limited partipation on [CityU campus](https://www.cityu.edu.hk/).
