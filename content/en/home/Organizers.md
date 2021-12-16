@@ -22,6 +22,7 @@ design:
 ###   &emsp;&emsp;&emsp;           School of Data Science
 ###   &emsp;&emsp;&emsp;           Department of Economics and Finance
 ###   &emsp;&emsp;&emsp;           Fintech and Business Analytics Center
+<font color=black size=5>Fintech and Business Analytics Center</font>
 
 ## Conference Co-Organizers
 
