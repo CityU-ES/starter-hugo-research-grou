@@ -18,12 +18,15 @@ subtitle:
 design:
   columns: "1"
   background:
+    color = "navy"
+    gradient_start = "DeepSkyBlue"
+    gradient_end = "SkyBlue"
     image: campus.jpg
-    image_darken: 10.0
+    image_darken: 0.6.0
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: false
+    text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
