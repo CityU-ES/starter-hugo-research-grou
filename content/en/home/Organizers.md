@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 weight: 2  # Order that this section will appear.
 title:
 
-hero_media: Lab.png,cornellfintech.png
+hero_media: Lab.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
