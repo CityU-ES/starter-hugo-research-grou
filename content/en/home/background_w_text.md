@@ -41,7 +41,7 @@ design:
 
 ## CONFERENCE MODE
 
-#### Hybrid Conference with limited partipation on [City University of Hong Kong](https://www.cityu.edu.hk/) campus.
+#### Hybrid Conference with limited partipation on [campus](https://www.cityu.edu.hk/about/campus/map)
 
 ## CONTACT
 #### gavin.feng@cityu.edu.hk
