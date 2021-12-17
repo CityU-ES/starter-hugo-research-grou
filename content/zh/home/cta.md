@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./post/" cta_text="Submit document →" %}}
+{{% cta cta_link="./post/" cta_text="上传文章 →" %}}
