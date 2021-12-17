@@ -4,26 +4,13 @@ headless: true  # This file represents a page section.
 weight: 2  # Order that this section will appear.
 title:
 
-hero_media: Lab.png
+hero_media: alllogos.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
   # Add custom styles
   css_style:
   css_class:
-feature:
-  - icon: chalkboard-teacher
-    icon_pack: fas
-    name: Slides
-    description: 
-  - icon: video
-    icon_pack: fas
-    name: Video
-    description: 
-  - icon: code
-    icon_pack: fas
-    name: Math & Code
-    description: 
 ---
 
 <br>
