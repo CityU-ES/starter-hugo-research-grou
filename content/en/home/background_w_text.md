@@ -30,7 +30,7 @@ design:
 
 ## DATE & TIME
 
-#### May/June 2022, TBA
+#### 27-28 May, 2022
 
 ## CONFERENCE COMMITTEES
 
