@@ -20,20 +20,13 @@ design:
   background:
     image: campus.jpg
     image_darken: 0.6.0
-    image_parallax: true
+    image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-
-
-
-
-
-
-
 ## 2022 Hong Kong conference for Fintech, AI, and Big Data in Business
 
 
