@@ -2,7 +2,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 2  # Order that this section will appear.
-title:
+title: Committee
 
 hero_media: alllogos.png
 design:
@@ -15,7 +15,7 @@ design:
 
 <br>
 
-## ORGANIZERS<br>
+## ORGANIZERS
 ### Conference CityU Organizers
 
 &emsp;&emsp;&emsp;&emsp;<font color=black size=4>Laboratory for AI-Powered FinTech</font><br>
