@@ -4,6 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /
+  - name: Overview
+    url: content/home/
     weight: 10
+  - name: Committee
+    url: /
+    weight: 20
+  - name: Keynotes Speaker
+    url: /
+    weight: 30
+  - name: Conference Program
+    url: /
+    weight: 40
+  - name: Submission
+    url: /
+    weight: 50
+ 
