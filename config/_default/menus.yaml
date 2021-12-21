@@ -12,17 +12,17 @@ main:
 
 main:
   - name: Overview
-    url: content/home/
+    url: home
     weight: 10
   - name: Committee
-    url: /
+    url: committee
     weight: 20
   - name: Keynotes Speaker
-    url: /
+    url: keynote speaker
     weight: 30
   - name: Conference Program
-    url: /
+    url: conference program
     weight: 40
   - name: Submission
-    url: /
+    url: submission
     weight: 50
