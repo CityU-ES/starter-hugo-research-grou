@@ -28,21 +28,5 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-## DATE & TIME
-
-#### 27-28 May, 2022
-
-## CONFERENCE COMMITTEES
-
-#### [Gavin FENG](https://www.gavinfeng702.com/)
-#### [Xiao QIAO](https://sites.google.com/site/xiaoqiao10/) 
-#### [Simoon TRIMBORN](https://www.simontrimborn.de/)
-#### [Zhengyang XU](https://sites.google.com/view/zhengyxu)
-
-## CONFERENCE MODE
-
-#### Hybrid Conference with limited partipation on [campus](https://www.cityu.edu.hk/about/campus/map)
-
-## CONTACT
-#### gavin.feng@cityu.edu.hk
+## 2022 Hong Kong conference for Fintech, AI, and Big Data in Business
 
