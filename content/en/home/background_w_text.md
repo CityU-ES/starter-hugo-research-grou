@@ -26,9 +26,10 @@ design:
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
+advanced:
+  css_class: fullscreen
 ---
 ## 2022 Hong Kong conference for Fintech, AI, and Big Data in Business
-
 
 
 
