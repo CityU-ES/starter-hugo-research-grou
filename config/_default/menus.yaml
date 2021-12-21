@@ -18,10 +18,10 @@ main:
     url: committee
     weight: 20
   - name: Keynotes Speaker
-    url: keynotes speaker
+    url: speaker
     weight: 30
   - name: Conference Program
-    url: conference program
+    url: program
     weight: 40
   - name: Submission
     url: submission
