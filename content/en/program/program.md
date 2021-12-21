@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: conference program
+widget: program
 
 # This file represents a page section.
 headless: true
