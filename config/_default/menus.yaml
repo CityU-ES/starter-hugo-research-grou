@@ -4,12 +4,25 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Event
-    url: event
+
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Overview
+    url: content/home/
+    weight: 10
+  - name: Committee
+    url: /
+    weight: 20
+  - name: Keynotes Speaker
+    url: /
+    weight: 30
+  - name: Conference Program
+    url: /
     weight: 40
-  - name: People
-    url: people
+  - name: Submission
+    url: /
     weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
