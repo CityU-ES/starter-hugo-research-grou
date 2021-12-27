@@ -35,7 +35,7 @@ contact_links:
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
-    link: 'https://www.cityu.edu.hk'
+#    link: 'https://www.cityu.edu.hk'
 
 # Site header
 
@@ -100,7 +100,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider:
   algolia:
     app_id: ''
     api_key: ''
