@@ -26,3 +26,6 @@ main:
   - name: Submission
     url: submission
     weight: 50
+  - name: Organizers
+    url: organizers
+    weight: 60
