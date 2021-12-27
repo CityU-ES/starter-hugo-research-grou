@@ -1,24 +1,44 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
+title: Welcome to Wowchemy, the website builder for Hugo
+subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
-# Activate this widget? true/false
-active: true
+# Summary for listings and search engines
+summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
-# This file represents a page section.
-headless: true
+# Link this post with a project
+projects: []
 
-# Order that this section appears on the page.
-weight: 1
+# Date published
+date: "2020-12-13T00:00:00Z"
 
-title: 
-subtitle:
+# Date updated
+lastmod: "2020-12-13T00:00:00Z"
 
-design:
- 
-advanced:
-  css_class: fullscreen
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
+authors:
+- admin
+- 吳恩達
+
+tags:
+- Academic
+- 开源
+
+categories:
+- Demo
+- 教程
 ---
 ## DATE & TIME
 
