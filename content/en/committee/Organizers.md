@@ -1,19 +1,9 @@
 ---
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 2  # Order that this section will appear.
 title: Committee
-
-hero_media: alllogos.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
-  # Add custom styles
-  css_style:
-  css_class:
 ---
-
-<br>
 
 # ORGANIZERS
 ## Conference CityU Organizers
