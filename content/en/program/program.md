@@ -1,5 +1,7 @@
 ---
 title: Conference Program
+# Order that this section appears on the page.
+weight: 1
 ---
 ## DATE & TIME
 
