@@ -10,16 +10,16 @@ design:
 
 ## Conference CityU Organizers<br>
 
-&emsp;&emsp;&emsp;&emsp;<font color=black size=4>Hong Kong Laboratory of AI-Powered Financial Technologies</font><br>
-&emsp;&emsp;&emsp;&emsp;<font color=black size=4>Department of Management Sciences</font><br>
-&emsp;&emsp;&emsp;&emsp;<font color=black size=4>School of Data Science</font><br>
-&emsp;&emsp;&emsp;&emsp;<font color=black size=4>Department of Economics and Finance</font><br>
-&emsp;&emsp;&emsp;&emsp;<font color=black size=4>Fintech and Business Analytics Center</font><br>
+<font color=black size=4>Hong Kong Laboratory of AI-Powered Financial Technologies</font><br>
+<font color=black size=4>Department of Management Sciences</font><br>
+<font color=black size=4>School of Data Science</font><br>
+<font color=black size=4>Department of Economics and Finance</font><br>
+<font color=black size=4>Fintech and Business Analytics Center</font><br>
 
 ## Conference Co-Organizers<br>
 
-&emsp;&emsp;&emsp;&emsp;<font color=black size=4>FinTech at Cornell Initiative</font><br>
-&emsp;&emsp;&emsp;&emsp;<font color=black size=4>Peking University Institute of Digital Finance</font><br>
-&emsp;&emsp;&emsp;&emsp;<font color=black size=4>Stanford Advanced FinTech Lab</font><br>
-&emsp;&emsp;&emsp;&emsp;<font color=black size=4>Tsinghua University Xinyuan FinTech Center</font><br>
-&emsp;&emsp;&emsp;&emsp;<font color=black size=4>AI & Big Data in Finance Research</font><br>
+<font color=black size=4>FinTech at Cornell Initiative</font><br>
+<font color=black size=4>Peking University Institute of Digital Finance</font><br>
+<font color=black size=4>Stanford Advanced FinTech Lab</font><br>
+<font color=black size=4>Tsinghua University Xinyuan FinTech Center</font><br>
+<font color=black size=4>AI & Big Data in Finance Research</font><br>
