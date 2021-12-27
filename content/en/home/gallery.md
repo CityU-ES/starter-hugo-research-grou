@@ -16,4 +16,4 @@ design:
   columns: '2'
 ---
 
-{{< gallery album="media" >}}
+ {{< gallery album="<photo>" >}} 
