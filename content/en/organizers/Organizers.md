@@ -6,6 +6,13 @@ design:
   # view: compact  # For new versions since v5.5+, write the view name
   view: 2  # For older versions prior to v5.5, use the numeric IDs above
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
+# Featured image
+# Place an image named `logos.png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**]'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 ---
 
 ## Conference CityU Organizers<br>
