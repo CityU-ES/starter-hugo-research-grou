@@ -7,7 +7,7 @@ design:
   view: 2  # For older versions prior to v5.5, use the numeric IDs above
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 # Featured image
-# Place an image named `logos.png` in this page's folder and customize its options here.
+# Place an image named `alllogos.png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**Unsplash**]'
   focal_point: ""
