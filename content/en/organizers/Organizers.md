@@ -9,8 +9,9 @@ design:
 # Featured image
 # Place an image named `featured.png` in this page's folder and customize its options here.
 image:
-  caption: 
-  focal_point: Smart
+  caption:
+  focal_point: ""
+  preview_only: false
 ---
 
 ## Conference CityU Organizers<br>
