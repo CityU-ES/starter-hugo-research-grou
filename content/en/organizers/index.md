@@ -10,7 +10,8 @@ design:
 # Place an image named `featured.png` in this page's folder and customize its options here.
 
 # Order that this section appears on the page.
-# weight: 10
+weight: 10
+
 ---
 
 ## Conference CityU Organizers
