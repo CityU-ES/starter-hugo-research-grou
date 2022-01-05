@@ -1,5 +1,5 @@
 ---
-title：Document Submission
+title: Document Submission
 ---
 Financial technology, or FinTech, is driving innovation in financial services globally. Emerging technologies such as artificial intelligence, blockchain, and cloud computing have been increasingly applied to studying issues in finance, marketing, operation management, and other business areas. Hong Kong is an international financial center with high demand for FinTech, AI, and Big Data research. The city has a high degree of technological adoption among large financial services providers and fosters a vibrant FinTech startup ecosystem. We invite interested scholars to join the inaugural 2022 Hong Kong conference for Fintech, AI, and Big Data in Business.
 
