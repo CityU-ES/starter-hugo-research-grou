@@ -8,10 +8,13 @@ design:
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 # Featured image
 # Place an image named `featured.png` in this page's folder and customize its options here.
+
+# Order that this section appears on the page.
+weight: 10
+
 image:
-  caption:
-  focal_point: ""
-  preview_only: false
+  caption: 'Organizers' [**logos**]'
+  focal_point: Right
 ---
 
 ## Conference CityU Organizers
