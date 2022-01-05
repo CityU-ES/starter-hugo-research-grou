@@ -15,6 +15,7 @@ weight: 10
 image:
   caption: 'Organizers' [**logos**]'
   focal_point: Right
+
 ---
 
 ## Conference CityU Organizers
