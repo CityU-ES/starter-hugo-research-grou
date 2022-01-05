@@ -21,3 +21,9 @@ weight: 1
 ## CONTACT
 #### gavin.feng@cityu.edu.hk
 
+## Two best paper awards: 1,000 USD each.
+
+## CONFERENCE ATTENDANCE FEE 
+#### No attendance fee will be charged. 
+
+
