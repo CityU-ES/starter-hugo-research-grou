@@ -11,16 +11,6 @@ design:
 
 # Order that this section appears on the page.
 # weight: 10
-
-image:
-  caption: 'Organizers' [**logos**]'
-  focal_point: Right
-  
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
 ---
 
 ## Conference CityU Organizers
