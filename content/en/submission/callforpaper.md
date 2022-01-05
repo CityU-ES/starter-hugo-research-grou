@@ -20,4 +20,4 @@ Though the conference will be held in *the hybrid mode*, the conference organize
 ### SUBMISSION GUIDELINES
 Authors should submit an electronic version of the paper in PDF format to <Conference_Email> no later than **March 15th, 2022**. There is no submission fee. The paper selection will be finalized by *early April 2022* and decisions communicated by *May 2022*. 
 
-Two best paper awards: 1,000 USD each.
+Two best paper awards: **1,000 USD each**.
