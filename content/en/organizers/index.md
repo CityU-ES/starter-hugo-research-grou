@@ -10,11 +10,16 @@ design:
 # Place an image named `featured.png` in this page's folder and customize its options here.
 
 # Order that this section appears on the page.
-weight: 10
+# weight: 10
 
 image:
   caption: 'Organizers' [**logos**]'
   focal_point: Right
+  
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 ---
 
