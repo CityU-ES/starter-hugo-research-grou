@@ -21,7 +21,7 @@ main:
     url: committee
     weight: 30
   - name: Keynote Speaker
-    url: speaker
+    url: people
     weight: 40
   - name: Location and Contact
     url: program
