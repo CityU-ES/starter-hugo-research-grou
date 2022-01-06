@@ -7,10 +7,10 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 1
 
 # title: Keynote Speaker
-subtitle:
+subtitle: Keynote Speaker
 
 content:
   # Choose which groups/teams of users to display.
