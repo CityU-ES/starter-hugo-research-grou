@@ -9,6 +9,6 @@ weight: 1
 
 ## Location
 **Address**
-**City University of Hong Kong**
-Tat Chee Avenue
-Kowloon Tong
+**City University of Hong Kong**<br>
+Tat Chee Avenue<br>
+Kowloon Tong<br>
