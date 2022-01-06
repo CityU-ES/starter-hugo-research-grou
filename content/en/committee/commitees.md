@@ -9,19 +9,30 @@ design:
 ---
 
 # 
-## Internal Members at CityU<br>
+## Internal Members at CityU                                               External Members<br>
 
-[Gavin FENG](https://www.gavinfeng702.com/)<br>
-[Xiao QIAO](https://sites.google.com/site/xiaoqiao10/) <br>
-S. Joe Qin<br>
-[Simoon TRIMBORN](https://www.simontrimborn.de/)<br>
-Alan Wan<br>
-[Zhengyang XU](https://sites.google.com/view/zhengyxu)<br>
-Houmin Yan<br>
+[Gavin FENG](https://www.gavinfeng702.com/)                           Yiping Huang (Peking University) </font><br>
+[Xiao QIAO](https://sites.google.com/site/xiaoqiao10/)               Junye Li (Fudan University)<br>
+S. Joe Qin                                                      Markus Pelger (Stanford University)<br>
+[Simoon TRIMBORN](https://www.simontrimborn.de/)                  Nicholas Polson (University of Chicago)<br>
+Alan Wan                                                           Ruey Tsay (University of Chicago)<br>
+[Zhengyang XU](https://sites.google.com/view/zhengyxu)             Dacheng Xiu (University of Chicago)<br>
+Houmin Yan                                                          Xiaoyan Zhang (Tsinghua University)<br>
+                                                                        Fuwei Jiang (Central University of Finance and Economics)<br>
+                                                                        Dashan Huang (Singapore Management University)<br>
+                                                                        Jay Cao (Chinese University of Hong Kong)<br>
+                                                                        Simona Abis (Columbia University)<br>
+                                                                        Asaf Manela (WUSTL)<br>
+                                                                        Mao Ye (UIUC)<br>
+                                                                        Jiasun Li (George Mason)<br>
+                                                                        Andreas Park (University of Toronto)<br>
+                                                                        Gustavo Schwenkler (Santa Clara University)<br>
+                                                                        Christine Parlour (Berkeley)<br>
+
 
 
 ## External Members<br>
-<font color=black size=4>Yiping Huang (Peking University) </font><br>
+Yiping Huang (Peking University) </font><br>
 Junye Li (Fudan University)<br>
 Markus Pelger (Stanford University)<br>
 Nicholas Polson (University of Chicago)<br>
