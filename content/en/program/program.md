@@ -10,5 +10,9 @@ weight: 1
 ## CONTACT
 #### gavin.feng@cityu.edu.hk
 
+## CONFERENCE ATTENDANCE FEE 
+#### No attendance fee will be charged. 
+
+
 
 
