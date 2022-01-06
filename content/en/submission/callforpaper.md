@@ -15,9 +15,16 @@ We invite submission of theoretical and empirical papers on, but not limited to,
 &emsp;●	Big data applications in novel topics such as climate finance, ESG, and the Covid-19 pandemic<br>
 &emsp;●	Blockchain technology, smart contracts, and digital currencies
 
-Though the conference will be held in *the hybrid mode*, the conference organizers will cover the economy airfare expenses of overseas speakers as well as reimburse a 3-nights 4-star hotel stay.
-
 ### SUBMISSION GUIDELINES
 Authors should submit an electronic version of the paper in PDF format to <Conference_Email> no later than **March 15th, 2022**. There is no submission fee. The paper selection will be finalized by *early April 2022* and decisions communicated by *May 2022*. 
 
 Two best paper awards: **1,000 USD each**.
+
+### CONFERENCE MODE
+#### Hybrid Conference with limited partipation on [campus](https://www.cityu.edu.hk/about/campus/map)
+Though the conference will be held in *the hybrid mode*, the conference organizers will cover the economy airfare expenses of overseas speakers as well as reimburse a 3-nights 4-star hotel stay.
+
+### CONFERENCE ATTENDANCE FEE 
+No attendance fee will be charged. 
+
+
