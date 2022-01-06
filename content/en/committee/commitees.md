@@ -11,13 +11,14 @@ design:
 # 
 ## Internal Members at CityU<br>
 
-<font color=black size=4>Gavin Feng</font><br>
-Xiao Qiao<br>
+[Gavin FENG](https://www.gavinfeng702.com/)<br>
+[Xiao QIAO](https://sites.google.com/site/xiaoqiao10/) <br>
 S. Joe Qin<br>
-Simon Trimborn<br>
+[Simoon TRIMBORN](https://www.simontrimborn.de/)<br>
 Alan Wan<br>
-Zhengyang Xu<br>
+[Zhengyang XU](https://sites.google.com/view/zhengyxu)<br>
 Houmin Yan<br>
+
 
 ## External Members<br>
 <font color=black size=4>Yiping Huang (Peking University) </font><br>
