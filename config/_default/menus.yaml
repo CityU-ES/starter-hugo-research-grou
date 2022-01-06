@@ -14,17 +14,17 @@ main:
   - name: Overview
     url: #home
     weight: 10
+  - name: Call for Papers
+    url: submission
+    weight: 20
   - name: Committee
     url: committee
-    weight: 20
-  - name: Keynotes Speaker
-    url: speaker
     weight: 30
-  - name: Conference Program
-    url: program
+  - name: Keynote Speaker
+    url: speaker
     weight: 40
-  - name: Submission
-    url: submission
+  - name: Location and Contact
+    url: program
     weight: 50
   - name: Organizers
     url: organizers
