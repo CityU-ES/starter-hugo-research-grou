@@ -11,23 +11,23 @@ design:
 # 
 ## Internal Members at CityU                                               External Members<br>
 
-[Gavin FENG](https://www.gavinfeng702.com/)                           Yiping Huang (Peking University) </font><br>
-[Xiao QIAO](https://sites.google.com/site/xiaoqiao10/)               Junye Li (Fudan University)<br>
-S. Joe Qin                                                      Markus Pelger (Stanford University)<br>
-[Simoon TRIMBORN](https://www.simontrimborn.de/)                  Nicholas Polson (University of Chicago)<br>
-Alan Wan                                                           Ruey Tsay (University of Chicago)<br>
-[Zhengyang XU](https://sites.google.com/view/zhengyxu)             Dacheng Xiu (University of Chicago)<br>
-Houmin Yan                                                          Xiaoyan Zhang (Tsinghua University)<br>
-                                                                        Fuwei Jiang (Central University of Finance and Economics)<br>
-                                                                        Dashan Huang (Singapore Management University)<br>
-                                                                        Jay Cao (Chinese University of Hong Kong)<br>
-                                                                        Simona Abis (Columbia University)<br>
-                                                                        Asaf Manela (WUSTL)<br>
-                                                                        Mao Ye (UIUC)<br>
-                                                                        Jiasun Li (George Mason)<br>
-                                                                        Andreas Park (University of Toronto)<br>
-                                                                        Gustavo Schwenkler (Santa Clara University)<br>
-                                                                        Christine Parlour (Berkeley)<br>
+[Gavin FENG](https://www.gavinfeng702.com/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Yiping Huang (Peking University) </font><br>
+[Xiao QIAO](https://sites.google.com/site/xiaoqiao10/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Junye Li (Fudan University)<br>
+S. Joe Qin&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Markus Pelger (Stanford University)<br>
+[Simoon TRIMBORN](https://www.simontrimborn.de/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nicholas Polson (University of Chicago)<br>
+Alan Wan&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ruey Tsay (University of Chicago)<br>
+[Zhengyang XU](https://sites.google.com/view/zhengyxu)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dacheng Xiu (University of Chicago)<br>
+Houmin Yan&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Xiaoyan Zhang (Tsinghua University)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Fuwei Jiang (Central University of Finance and Economics)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dashan Huang (Singapore Management University)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jay Cao (Chinese University of Hong Kong)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Simona Abis (Columbia University)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Asaf Manela (WUSTL)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mao Ye (UIUC)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jiasun Li (George Mason)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Andreas Park (University of Toronto)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Gustavo Schwenkler (Santa Clara University)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Christine Parlour (Berkeley)<br>
 
 
 
