@@ -7,7 +7,7 @@ weight: 1
 ## CONTACT
 #### gavin.feng@cityu.edu.hk
 
-## Location
+## LOCATION
 **Address**<br>
 **City University of Hong Kong**<br>
 Tat Chee Avenue<br>
