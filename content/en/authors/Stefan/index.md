@@ -3,8 +3,7 @@
 title: Stefan Nagel 
 
 # Username (this should match the folder name)
-authors:
-- Stefan
+# authors:
 
 # Is this the primary user of the site?
 superuser: false
