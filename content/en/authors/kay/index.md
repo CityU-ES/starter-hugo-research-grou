@@ -4,7 +4,7 @@ title: Kay Giesecke
 
 # Username (this should match the folder name)
 # authors:
-# - Kay
+
 
 # Is this the primary user of the site?
 superuser: false
@@ -42,3 +42,5 @@ user_groups:
 Kay Giesecke is Professor of Management Science & Engineering at Stanford University. He is the Director of the Advanced Financial Technologies Laboratory and the Director of the Mathematical and Computational Finance Program. Kay is a member of the Institute for Computational and Mathematical Engineering. He serves on the Governing Board and Scientific Advisory Board of the Consortium for Data Analytics in Risk. He is a member of the Council of the Bachelier Finance Society.
 
 Kay is currently on leave from Stanford to lead infima Technologies, a startup company building a prediction service for the $25T credit markets.
+
+Kay is a financial technologist and engineer. He develops stochastic financial models, designs statistical methods for analyzing financial data, examines simulation and other numerical algorithms for solving the associated computational problems, and performs empirical analyses. Much of Kay's work is driven by important applications in areas such as credit risk management, investment management, and, most recently, housing finance. His research has been funded by the National Science Foundation, JP Morgan, State Street, Morgan Stanley, Swiss Re, American Express, Moody's, and several other organizations.
