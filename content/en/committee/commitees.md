@@ -42,24 +42,3 @@ Houmin Yan&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Gustavo Schwenkler (Santa Clara University)<br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Christine Parlour (Berkeley)<br>
-
-
-
-## External Members<br>
-Yiping Huang (Peking University) </font><br>
-Junye Li (Fudan University)<br>
-Markus Pelger (Stanford University)<br>
-Nicholas Polson (University of Chicago)<br>
-Ruey Tsay (University of Chicago)<br>
-Dacheng Xiu (University of Chicago)<br>
-Xiaoyan Zhang (Tsinghua University)<br>
-Fuwei Jiang (Central University of Finance and Economics)<br>
-Dashan Huang (Singapore Management University)<br>
-Jay Cao (Chinese University of Hong Kong)<br>
-Simona Abis (Columbia University)<br>
-Asaf Manela (WUSTL)<br>
-Mao Ye (UIUC)<br>
-Jiasun Li (George Mason)<br>
-Andreas Park (University of Toronto)<br>
-Gustavo Schwenkler (Santa Clara University)<br>
-Christine Parlour (Berkeley)<br>
