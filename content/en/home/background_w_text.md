@@ -29,8 +29,8 @@ design:
 advanced:
   css_class: fullscreen
 ---
-## &emsp;&emsp;2022 Hong Kong conference for Fintech, AI, and Big Data in Business
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; May 27-28, 2022 | City University of Hong Kong, Tat Chee Avenue, Kowloon Tong
+## &emsp;&emsp;&emsp;&emsp;&emsp; 2022 Hong Kong conference for Fintech, AI, and Big Data in Business
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; May 27-28, 2022 | City University of Hong Kong, Tat Chee Avenue, Kowloon Tong
 
 
 
