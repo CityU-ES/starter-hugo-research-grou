@@ -11,7 +11,7 @@ design:
 # 
 ## Internal Members at CityU&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;External Members<br>
 
-[Gavin FENG](https://www.gavinfeng702.com/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Yiping Huang (Peking University) </font><br>
+[Gavin FENG](https://www.gavinfeng702.com/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Yiping Huang (Peking University) </font><br>
 [Xiao QIAO](https://sites.google.com/site/xiaoqiao10/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Junye Li (Fudan University)<br>
 S. Joe Qin&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Markus Pelger (Stanford University)<br>
 [Simoon TRIMBORN](https://www.simontrimborn.de/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nicholas Polson (University of Chicago)<br>
