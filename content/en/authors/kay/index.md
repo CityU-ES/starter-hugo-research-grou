@@ -18,7 +18,19 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:test@example.org'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
