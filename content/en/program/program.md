@@ -10,6 +10,6 @@ weight: 1
 
 ## LOCATION
 **Address**<br>
-**[City University of Hong Kong]**<br>(https://www.cityu.edu.hk/about/campus/map)
+**[City University of Hong Kong]**(https://www.cityu.edu.hk/about/campus/map)<br>
 Tat Chee Avenue<br>
 Kowloon Tong<br>
