@@ -3,8 +3,8 @@
 title: Kay Giesecke
 
 # Username (this should match the folder name)
-authors:
-- Kay
+# authors:
+# - Kay
 
 # Is this the primary user of the site?
 superuser: false
