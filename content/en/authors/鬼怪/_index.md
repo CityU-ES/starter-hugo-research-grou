@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 鬼怪
+title: Kay Giesecke
 
 # Username (this should match the folder name)
 authors:
-- 鬼怪
+- Kay
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Management Science & Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,42 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,9 +36,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- keynote
 ---
 
-鬼怪 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kay Giesecke is Professor of Management Science & Engineering at Stanford University. He is the Director of the Advanced Financial Technologies Laboratory and the Director of the Mathematical and Computational Finance Program. Kay is a member of the Institute for Computational and Mathematical Engineering. He serves on the Governing Board and Scientific Advisory Board of the Consortium for Data Analytics in Risk. He is a member of the Council of the Bachelier Finance Society.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kay is currently on leave from Stanford to lead infima Technologies, a startup company building a prediction service for the $25T credit markets.
